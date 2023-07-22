@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chakri Bolla</h1>
 <h3 align="center">Data Alchemist: Transforming Raw Numbers into Knowledge Gold ✨🔍</h3>
 
-![](Enhance-640w.gif)
+![](Naruto.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakribolla&label=Profile%20views&color=0e75b6&style=flat" alt="chakribolla" /> </p>
