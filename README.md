@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Data, ML, Python**
+- 💬 Ask me about **Data, ML, Python, Power Bi**
 
 - 📫 How to reach me **bollachakri98@gmail.com**
 
